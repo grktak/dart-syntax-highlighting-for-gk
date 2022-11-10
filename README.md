@@ -3,6 +3,6 @@
 
                 - 🔭 DART Language Sytax Highlighting for GitKraken
 
-                - 🌱 Created for Capstone Project**
+                - 🌱 Created for Capstone Project
 
-                - 📫 Garik Takoushian, Adriel Castellanos, Noah Khan, Shadman Hye, Alex Qin**
+                - 📫 Garik Takoushian, Adriel Castellanos, Noah Khan, Shadman Hye, Alex Qin
