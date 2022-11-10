@@ -5,4 +5,4 @@
 
                # - 🌱 Created for Capstone Project
 
-               # - 📫 Garik Takoushian, Adriel Castellanos, Noah Khan, Shadman Hye, Alex Q
+               # - 📫 Garik Takoushian, Adriel Castellanos, Noah Khan, Shadman Hye, Alex Qin
